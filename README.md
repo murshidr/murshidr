@@ -171,12 +171,12 @@ Production-grade mission control dashboard processing live data from 8+ sensor c
 
 <div align="center">
 
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmurshidr%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D1d6fa8%26icon_color%3D1d6fa8%26text_color%3Dffffff%26cache_seconds%3D1800" />
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmurshidr%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D1d6fa8%26text_color%3Dffffff%26cache_seconds%3D1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=murshidr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6fa8&icon_color=1d6fa8&text_color=ffffff" alt="Murshid's GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshidr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6fa8&text_color=ffffff" alt="Top Languages" />
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murshidr&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6fa8&fire=ED5800&currStreakLabel=1d6fa8" alt="GitHub Streak" />
 
 </div>
 
