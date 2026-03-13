@@ -1,9 +1,7 @@
 
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3c5e,100:1d6fa8&height=200&section=header&text=Murshid%20R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Deep%20Learning%20for%20Aerospace%20%26%20Space%20Tech&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3c5e,100:1d6fa8&height=200&section=header&text=Murshid%20R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Deep%20Learning%20for%20Aerospace%20and%20Space%20Tech&descAlignY=58&descSize=18" />
 
 </div>
 
