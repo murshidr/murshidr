@@ -171,9 +171,8 @@ Production-grade mission control dashboard processing live data from 8+ sensor c
 
 <div align="center">
 
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmurshidr%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D1d6fa8%26icon_color%3D1d6fa8%26text_color%3Dffffff" />
-
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmurshidr%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D1d6fa8%26text_color%3Dffffff" />
+<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmurshidr%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D1d6fa8%26icon_color%3D1d6fa8%26text_color%3Dffffff%26cache_seconds%3D1800" />
+<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmurshidr%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D1d6fa8%26text_color%3Dffffff%26cache_seconds%3D1800" />
 
 </div>
 
